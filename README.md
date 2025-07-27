@@ -4,6 +4,40 @@
 
 ---
 
+
+### 📷 Screenshots
+
+#### 🔐 Sign Up Page
+![Sign Up](./frontend/src/assets/1.png)
+
+#### 🏠 Sign In Page
+![Sign In](./frontend/src/assets/images/2.png)
+
+#### 🏠 Dashboard Page
+![Dashboard](./frontend/src/assets/images/3.png)
+
+#### 🏠 Team Create
+![TeamCreate](./frontend/src/assets/images/4.png)
+
+#### 🧑‍🤝‍🧑 Team Management
+![Team](./frontend/src/assets/images/5.png)
+
+#### 🧑‍🤝‍🧑 Project
+![Project](./frontend/src/assets/images/6.png)
+
+#### 🧑‍🤝‍🧑 Project
+![Project](./frontend/src/assets/images/7.png)
+
+#### 📋 Kanban Board
+![Kanban](./frontend/src/assets/images/8.png)
+
+#### ➕ Create Task
+![Create Task](./frontend/src/assets/images/9.png)
+
+#### ✅ Task Completed View
+![Done](./frontend/src/assets/images/10.png)
+
+
 ## 📁 Project Structure
 
 buzzhive/
